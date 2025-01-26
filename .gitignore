@@ -1,0 +1,65 @@
+# Visual Studio user-specific files
+.vs
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Logs
+*.log
+[Ll]ogs/
+
+# Compiled binary files
+[Bb]in/
+[Oo]bj/
+*.dll
+*.exe
+*.app
+*.so
+*.dylib
+
+# Visual Studio working files
+.vscode/
+.vs/
+.vscode/*
+
+# Configuration files
+appsettings*.json
+.env
+
+# Publish output
+publish/
+out/
+
+# Dependency directories
+node_modules/
+packages/
+*.nuget/
+
+# Temporary files
+*.tmp
+*.temp
+*.cache
+*.pid
+*.gz
+*.swp
+
+# IDE-specific files
+.idea/
+*.iml
+
+# Database files
+*.mdf
+*.ldf
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tooling
+*.coverage
+*.coveragexml
+*.testresults
